@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a comprehensive Jupyter notebook ([CreditRiskEDA_LoanApproval.ipynb](https://github.com/AvrodeepPal/Credit_Risk_Analysis/blob/main/CreditRiskEDA_LoanApproval.ipynb)) and accompanying visualizations (in `/images`) that demonstrate end-to-end credit risk modeling for loan approval.
+This repository contains a comprehensive Jupyter notebook ([CreditRiskEDA_LoanApproval.ipynb](https://github.com/soureshmondal/Credit_Risk_Analysis/blob/main/CreditRiskEDA_LoanApproval.ipynb)) and accompanying visualizations (in `/images`) that demonstrate end-to-end credit risk modeling for loan approval.
 
 ---
 
